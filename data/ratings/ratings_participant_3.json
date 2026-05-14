@@ -1,0 +1,64 @@
+{
+  "persona": "participant_3",
+  "self_report": {
+    "switch": {
+      "action": "abstain",
+      "confidence": 7,
+      "notes": ""
+    },
+    "footbridge": {
+      "action": "abstain",
+      "confidence": 10,
+      "notes": ""
+    },
+    "loved_one": {
+      "action": "abstain",
+      "confidence": 7,
+      "notes": ""
+    }
+  },
+  "argument_ratings": {
+    "switch": {
+      "claude": {
+        "score": 2,
+        "comment": ""
+      },
+      "gemini": {
+        "score": 4,
+        "comment": ""
+      },
+      "gpt": {
+        "score": 5,
+        "comment": ""
+      }
+    },
+    "footbridge": {
+      "claude": {
+        "score": 5,
+        "comment": ""
+      },
+      "gemini": {
+        "score": 4,
+        "comment": ""
+      },
+      "gpt": {
+        "score": 4,
+        "comment": ""
+      }
+    },
+    "loved_one": {
+      "claude": {
+        "score": 5,
+        "comment": ""
+      },
+      "gemini": {
+        "score": 4,
+        "comment": ""
+      },
+      "gpt": {
+        "score": 5,
+        "comment": ""
+      }
+    }
+  }
+}
